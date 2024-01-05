@@ -10,4 +10,4 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-username/html-clock.git
+   https://github.com/bumerboy86/wach2.git)https://github.com/bumerboy86/wach2.git
